@@ -1,8 +1,7 @@
-# title
+# ReadmeMaker
 
-![GNU](https://img.shields.io/badge/license-GNU-green)
 ## Description
-fajskld
+This project was created in order to facilitate simpler creation of ReadMe files in the future. It uses the inquirer package to create a command line interface that prompts each section of the ReadMe.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,13 +14,15 @@ fajskld
 
 ## Installation
 The project can be installed by running 
-npm i title
+npm i ReadmeMaker
 
 ## Usage
-asldk
-![screenshot of project](./screenshot.png)
+Run node index.js while in the appropriate folder in command line. Follow the prompts, and you'll have a ReadMe.
+![walkthrough video](./readmeDemo.mov)
 
-
+## Credits
+  This project could not have been completed without Inquirer package.
+  
 ## Contributing
 If you want to add to this project, please contact me with the information in the questions section.
 
@@ -30,7 +31,5 @@ No tests have been built for this project. If you build any for this app, please
 
 
 ## Questions
-If you have questions or otherwise want to contact me, you can send me an email at [fjskdl](mailto:fjskdl) or find me on Github as [dlskfj](https://github.com/dlskfj) 
+If you have questions or otherwise want to contact me, you can send me an email at [emilyrose0021@gmail.com](mailto:emilyrose0021@gmail.com) or find me on Github as [emilyerose](https://github.com/emilyerose) 
 
-## License
-This project falls under the GNU license. For more information about this license, see [https://choosealicense.com/licenses/undefined](https://choosealicense.com/licenses/undefined).
