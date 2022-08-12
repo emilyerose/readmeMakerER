@@ -16,9 +16,13 @@ This project was created in order to facilitate simpler creation of ReadMe files
 The project can be installed by running 
 npm i ReadmeMaker
 
+
+
+
+
 ## Usage
 Run node index.js while in the appropriate folder in command line. Follow the prompts, and you'll have a ReadMe.
-![walkthrough video](./readmeDemo.mov)
+![walkthrough video](https://user-images.githubusercontent.com/37817575/184274173-13a653d7-6c37-469e-b54c-e34951898398.mov)
 
 ## Credits
   This project could not have been completed without Inquirer package.
